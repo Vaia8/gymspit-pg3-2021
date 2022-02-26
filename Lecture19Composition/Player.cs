@@ -25,6 +25,7 @@ namespace Lecture19Composition
 					prompt.WriteLine("Choose an action:");
 					prompt.WriteLine("(A)ttack (attack {0})", character.Attack);
 					prompt.WriteLine("(W)ait");
+					prompt.WriteLine("(D)efend");
 				}
 
 				string choice = input.ReadLine();
@@ -39,6 +40,9 @@ namespace Lecture19Composition
 					case "w":
 					case "wait":
 						return Character.TURN_CHOICE_WAIT;
+					case "d":
+					case "defend":
+						return Character.TURN_CHOICE_DEFEND;
 				}
 
 				if (prompt != null) {

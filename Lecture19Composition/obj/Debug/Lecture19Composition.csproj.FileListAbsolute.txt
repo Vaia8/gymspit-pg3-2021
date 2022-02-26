@@ -1,0 +1,7 @@
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\bin\Debug\Lecture19Composition.exe.config
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\bin\Debug\Lecture19Composition.exe
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\bin\Debug\Lecture19Composition.pdb
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\obj\Debug\Lecture19Composition.csproj.CoreCompileInputs.cache
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\obj\Debug\Lecture19Composition.exe
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\obj\Debug\Lecture19Composition.pdb
+C:\Users\vaia\source\repos\gymspit-pg3-2021\Lecture19Composition\obj\Debug\Lecture19Composition.csproj.AssemblyReference.cache

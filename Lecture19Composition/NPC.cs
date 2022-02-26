@@ -19,7 +19,9 @@ namespace Lecture19Composition
 			string[] choices = new string[] {
 				Character.TURN_CHOICE_ATTACK,
 				Character.TURN_CHOICE_ATTACK,
+				Character.TURN_CHOICE_ATTACK,
 				Character.TURN_CHOICE_WAIT,
+				Character.TURN_CHOICE_DEFEND,
 			};
 
 			return choices[this.random.Next(choices.Length)];
